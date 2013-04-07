@@ -13,6 +13,7 @@ from ps7_verify_movement27 import testRobotMovement
 # uncomment this line (for Python 2.6):
 # from ps7_verify_movement26 import testRobotMovement
 
+#added new comment
 
 # === Provided class Position
 class Position(object):
